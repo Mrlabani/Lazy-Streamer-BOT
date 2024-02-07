@@ -9,3 +9,6 @@ apscheduler
 requests
 psutil
 pyromod
+pip install --upgrade
+pip setuptools
+   
